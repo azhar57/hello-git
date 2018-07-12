@@ -1,10 +1,6 @@
 # hello-git.
-Learning Github
-This is test file
 
-Master Branch.
-
-Create a Brach.
+This is a Read me file. where we can add project summary. 
 
 Learn, unlearn and relearn is the attitude you need to accuire. 
 
